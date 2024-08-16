@@ -19,7 +19,7 @@
     ?>
     <div>
         <?php 
-        echo "Minuto: ".conversorMinutos($numeroRandom);?>
+        echo 'Hora '.$numeroRandom." Minuto: ".conversorMinutos($numeroRandom);?>
     </div>
 </body>
 </html>
